@@ -1,0 +1,10 @@
+.qr-code-container {
+  display: flex;
+  justify-content: center;
+}
+
+.qr-code-container img {
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+}

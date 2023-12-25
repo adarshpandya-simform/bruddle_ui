@@ -1,0 +1,9 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-wrapper {
+  flex: 1;
+}
